@@ -1,0 +1,51 @@
+*{
+    font-family: 'Cormorant Garamond', serif;
+
+}
+
+body{
+    background-color: white;
+    width: 35%;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+    width: 25%;
+    margin: auto;
+     width: 35%;
+}
+
+footer{
+    text-align: center;
+    padding-top: 6px;
+    margin: auto;
+}
+
+.c1{
+    text-align: center;
+    float:center; 
+}
+
+.c2{
+    float: right;
+    text-align: left;
+}
+
+.c3{
+    text-align: right;
+    float: right;
+
+}
+
+.c4{
+    text-align: right;
+    float: left;
+
+}
+
+.c5{
+    text-align: left;
+    float: right;
+
+}
